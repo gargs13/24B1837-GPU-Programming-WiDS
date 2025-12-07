@@ -1,6 +1,6 @@
-### *Accelerating Scientific & AI Workflows with CUDA & Triton*
+### Accelerating Scientific & AI Workflows with CUDA & Triton
 
-*A 6-week winter course for researchers and engineers*
+
 
 
 Most researchers and engineers already have heavy Python code—simulations, numerical solvers, matrix workloads, data transforms, ML ops—that run slowly on CPUs.
