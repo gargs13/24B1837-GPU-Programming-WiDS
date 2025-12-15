@@ -131,8 +131,6 @@ week2/
  ├── vector_add.cu
  ├── multiply_scale.cu
  ├── relu.cu
- ├── block_grid_experiments.md
- └── profiling_optional.md   # if attempted
 ```
 
 ## Optional but Recommended
